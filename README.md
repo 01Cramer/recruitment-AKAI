@@ -28,4 +28,5 @@ Sample output:
 1. "mam" - 12
 2. "tak" - 5
 3. "z" - 2
+
 'Sentences' array consist of common Polish proverbs.
