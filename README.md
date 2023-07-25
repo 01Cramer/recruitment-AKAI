@@ -19,7 +19,7 @@ Your task is to:
    if person X is the author of book A with a rating of 9 and book B with a rating of 8,
    the information should be displayed as: X - 8.5
 
-### Notes:
+### Notes to my solution:
 I know that the good practice is to code classes in different files, but I decided that for this simple class, it is not necessary, and coding it in one file will make it easier for the recruiter to review. 
 
 ## Task 2. word-count
